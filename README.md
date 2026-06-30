@@ -36,7 +36,7 @@ I leverage a data-driven and client-centric approach to account management:
 
 - `/case-studies`: Detailed look at successful client expansion projects. (Coming Soon)
 - `/methodology`: My approach to strategic account planning and risk management. (Coming Soon)
-- `/certifications`: Evidence of continuous learning in Project Management and AI.
+- `/certifications`: [Project Management Certificate (Great Learning)](./certifications/Project_Management_Certificate_GreatLearning_May2024.pdf) and evidence of AI learning.
 
 ---
 
